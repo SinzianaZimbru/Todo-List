@@ -9,5 +9,7 @@ Todo List is a list to organize work or some tasks. This app is responsive for a
  
 ## How it looks ?
 ![Todo App 1](https://github.com/SinzianaZimbru/Todo-List/blob/main/t1.PNG?raw=true)
+![Todo App 2](https://github.com/SinzianaZimbru/Todo-List/blob/main/t2.PNG)
+
 
 
