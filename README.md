@@ -8,3 +8,6 @@ Todo List is a list to organize work or some tasks. This app is responsive for a
 3. CSS3
  
 ## How it looks ?
+![Todo App 1](https://github.com/SinzianaZimbru/Todo-List/blob/main/t1.PNG?raw=true)
+
+
